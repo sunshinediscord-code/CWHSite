@@ -1,0 +1,11 @@
+{
+  "name": "cwh-site",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Public static website for Cryonics World Hub.",
+  "scripts": {
+    "dev": "python3 -m http.server 8080",
+    "dev:win": "python -m http.server 8080",
+    "preview": "python3 -m http.server 8080"
+  }
+}

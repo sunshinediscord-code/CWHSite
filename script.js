@@ -1,3 +1,12 @@
+const visualStylesHref = './visuals.css';
+
+if (!document.querySelector(`link[href="${visualStylesHref}"]`)) {
+  const visualStyles = document.createElement('link');
+  visualStyles.rel = 'stylesheet';
+  visualStyles.href = visualStylesHref;
+  document.head.appendChild(visualStyles);
+}
+
 const menuButton = document.querySelector('.menu-toggle');
 const nav = document.querySelector('#primary-nav');
 

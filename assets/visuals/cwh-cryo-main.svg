@@ -1,5 +1,125 @@
-<svg width="240" height="135" viewBox="0 0 240 135" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-<title id="title">cwh-cryo-main</title>
-<desc id="desc">Selected main CWH cryonics capsule visual with integrated glowing CWH mark.</desc>
-<image width="240" height="135" href="data:image/webp;base64,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" preserveAspectRatio="xMidYMid slice"/>
+<svg width="1280" height="720" viewBox="0 0 1280 720" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">CWH cryonics capsule main visual</title>
+  <desc id="desc">A sharp futuristic cryonics capsule visual with the CWH mark integrated into the capsule body as a glowing structural element.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020815"/>
+      <stop offset="0.44" stop-color="#071a2f"/>
+      <stop offset="1" stop-color="#0c3357"/>
+    </linearGradient>
+    <radialGradient id="cyanGlow" cx="60%" cy="38%" r="58%">
+      <stop offset="0" stop-color="#8de9ff" stop-opacity="0.42"/>
+      <stop offset="0.36" stop-color="#2fbbff" stop-opacity="0.17"/>
+      <stop offset="1" stop-color="#07111f" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="floor" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#07101e"/>
+      <stop offset="0.5" stop-color="#0b2845"/>
+      <stop offset="1" stop-color="#04101f"/>
+    </linearGradient>
+    <linearGradient id="metal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eef7ff"/>
+      <stop offset="0.18" stop-color="#9fb1bf"/>
+      <stop offset="0.48" stop-color="#405063"/>
+      <stop offset="0.72" stop-color="#c8d8e4"/>
+      <stop offset="1" stop-color="#5c7082"/>
+    </linearGradient>
+    <linearGradient id="podDark" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#111d2b"/>
+      <stop offset="0.5" stop-color="#25364a"/>
+      <stop offset="1" stop-color="#101a27"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d7fbff" stop-opacity="0.82"/>
+      <stop offset="0.34" stop-color="#58d5ff" stop-opacity="0.40"/>
+      <stop offset="0.68" stop-color="#115581" stop-opacity="0.58"/>
+      <stop offset="1" stop-color="#06142a" stop-opacity="0.72"/>
+    </linearGradient>
+    <linearGradient id="mark" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ecfbff"/>
+      <stop offset="0.5" stop-color="#78e4ff"/>
+      <stop offset="1" stop-color="#d6f8ff"/>
+    </linearGradient>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.19 0 0 0 0 0.78 0 0 0 0 1 0 0 0 0.85 0" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="deepShadow" x="-20%" y="-40%" width="150%" height="190%">
+      <feDropShadow dx="0" dy="34" stdDeviation="24" flood-color="#000814" flood-opacity="0.58"/>
+    </filter>
+    <clipPath id="podClip">
+      <path d="M196 442 C256 320 387 256 594 242 C766 230 962 266 1074 343 C1123 377 1111 433 1048 459 C912 515 544 523 290 487 C218 477 171 493 196 442 Z"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect width="1280" height="720" fill="url(#cyanGlow)"/>
+
+  <g opacity="0.22">
+    <path d="M0 118 H1280 M0 210 H1280 M0 302 H1280 M0 394 H1280 M0 486 H1280" stroke="#69d7ff" stroke-width="1"/>
+    <path d="M126 0 V720 M286 0 V720 M446 0 V720 M606 0 V720 M766 0 V720 M926 0 V720 M1086 0 V720" stroke="#69d7ff" stroke-width="1"/>
+  </g>
+
+  <g opacity="0.72">
+    <circle cx="914" cy="296" r="172" fill="none" stroke="#16496e" stroke-width="32"/>
+    <circle cx="914" cy="296" r="132" fill="none" stroke="#69d7ff" stroke-width="3" opacity="0.76"/>
+    <circle cx="914" cy="296" r="94" fill="none" stroke="#69d7ff" stroke-width="2" opacity="0.34"/>
+    <path d="M742 296 H1086" stroke="#69d7ff" stroke-width="2" opacity="0.38"/>
+    <path d="M914 124 V468" stroke="#69d7ff" stroke-width="2" opacity="0.22"/>
+  </g>
+
+  <g opacity="0.70">
+    <rect x="74" y="136" width="266" height="160" rx="34" fill="#06101d" stroke="#163e62"/>
+    <path d="M96 248 C162 214 233 203 320 215" fill="none" stroke="#69d7ff" stroke-width="3" opacity="0.45"/>
+    <circle cx="126" cy="180" r="2" fill="#bdf4ff"/>
+    <circle cx="182" cy="162" r="1.7" fill="#bdf4ff"/>
+    <circle cx="265" cy="188" r="1.5" fill="#bdf4ff"/>
+    <circle cx="310" cy="152" r="1.2" fill="#bdf4ff"/>
+  </g>
+
+  <path d="M0 515 C220 462 392 493 594 520 C843 554 1025 538 1280 488 V720 H0 Z" fill="url(#floor)" opacity="0.88"/>
+  <path d="M160 606 C414 570 750 574 1105 616" fill="none" stroke="#69d7ff" stroke-width="3" opacity="0.18"/>
+  <path d="M226 653 C520 608 748 608 1034 648" fill="none" stroke="#69d7ff" stroke-width="2" opacity="0.10"/>
+
+  <g filter="url(#deepShadow)">
+    <ellipse cx="626" cy="516" rx="466" ry="50" fill="#00050d" opacity="0.46"/>
+
+    <g transform="rotate(-4 640 400)">
+      <path d="M172 443 C240 316 374 252 585 234 C761 219 968 257 1081 338 C1131 373 1118 430 1052 459 C902 525 528 535 281 496 C211 485 148 491 172 443 Z" fill="url(#metal)"/>
+      <path d="M198 438 C257 341 386 291 582 276 C748 264 925 292 1031 353 C1067 374 1055 409 1007 424 C860 472 533 480 303 452 C240 444 180 466 198 438 Z" fill="url(#podDark)" opacity="0.96"/>
+
+      <path d="M407 284 C503 235 690 232 814 267 C874 284 912 317 926 358 C838 384 633 388 469 371 C419 366 385 348 370 323 C361 308 374 295 407 284 Z" fill="url(#glass)" stroke="#a7edff" stroke-width="4" opacity="0.96"/>
+      <path d="M426 296 C522 256 690 254 795 282" fill="none" stroke="#ffffff" stroke-width="6" opacity="0.38" stroke-linecap="round"/>
+      <path d="M441 348 C566 372 742 371 892 347" fill="none" stroke="#69d7ff" stroke-width="3" opacity="0.34"/>
+
+      <g opacity="0.70">
+        <ellipse cx="620" cy="350" rx="94" ry="30" fill="#dbe8ef" opacity="0.25"/>
+        <path d="M534 356 C578 327 674 322 718 354 C666 370 594 374 534 356 Z" fill="#d7edf6" opacity="0.20"/>
+        <circle cx="611" cy="333" r="20" fill="#d9edf4" opacity="0.20"/>
+      </g>
+
+      <path d="M259 427 C437 452 777 451 1015 410" fill="none" stroke="#83eaff" stroke-width="6" opacity="0.88" filter="url(#softGlow)"/>
+      <path d="M250 397 C436 419 808 417 1054 377" fill="none" stroke="#d9f9ff" stroke-width="2" opacity="0.65"/>
+      <path d="M211 464 C414 508 807 505 1029 441" fill="none" stroke="#ffffff" stroke-width="3" opacity="0.24"/>
+
+      <g transform="translate(774 391)">
+        <path d="M-14 -41 H218 C240 -41 252 -28 246 -8 L232 39 C228 54 216 62 198 62 H-18 C-42 62 -54 48 -47 28 L-31 -24 C-27 -35 -22 -41 -14 -41 Z" fill="#16283a" stroke="#9bdff2" stroke-width="2.5" opacity="0.98"/>
+        <path d="M-1 -28 H204 C221 -28 229 -19 225 -4 L215 31 C212 43 203 49 188 49 H0 C-19 49 -27 38 -22 22 L-10 -17 C-7 -24 -5 -28 -1 -28 Z" fill="#081827" stroke="#2ecfff" stroke-width="1.5" opacity="0.86"/>
+        <text x="103" y="22" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="58" font-weight="900" letter-spacing="7" fill="url(#mark)" stroke="#072236" stroke-width="1.2" paint-order="stroke fill" filter="url(#softGlow)">CWH</text>
+        <path d="M-2 42 H190" stroke="#69d7ff" stroke-width="3" opacity="0.55"/>
+      </g>
+
+      <g opacity="0.92">
+        <circle cx="320" cy="421" r="9" fill="#86edff" filter="url(#softGlow)"/>
+        <circle cx="358" cy="427" r="5" fill="#d8fbff"/>
+        <circle cx="998" cy="362" r="8" fill="#86edff" filter="url(#softGlow)"/>
+      </g>
+    </g>
+  </g>
+
+  <rect x="0" y="0" width="1280" height="720" fill="none" stroke="#79e4ff" stroke-width="2" opacity="0.16"/>
 </svg>

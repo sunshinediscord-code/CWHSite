@@ -1,0 +1,16 @@
+<svg width="960" height="540" viewBox="0 0 960 540" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">CWH cryonics capsule</title>
+  <desc id="desc">Selected CWH cryonics capsule visual assembled into one continuous hero image.</desc>
+  <defs>
+    <clipPath id="frame">
+      <rect width="960" height="540" rx="0"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="960" height="540" fill="#06101d"/>
+    <image href="./cwh-cryo-main-quads/q11.svg" x="0" y="0" width="482" height="272" preserveAspectRatio="none"/>
+    <image href="./cwh-cryo-main-quads/q12.svg" x="478" y="0" width="482" height="272" preserveAspectRatio="none"/>
+    <image href="./cwh-cryo-main-quads/q21.svg" x="0" y="268" width="482" height="272" preserveAspectRatio="none"/>
+    <image href="./cwh-cryo-main-quads/q22.svg" x="478" y="268" width="482" height="272" preserveAspectRatio="none"/>
+  </g>
+</svg>

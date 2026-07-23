@@ -71,7 +71,7 @@
   min-height: 330px;
   border-radius: 28px;
   background:
-    url("./assets/visuals/cwh-cryo-main-composite.svg") center center / cover no-repeat,
+    url("./assets/visuals/cwh-cryo-main.svg?v=4") center center / cover no-repeat,
     linear-gradient(135deg, #06101d, #0d2743 52%, #123f66);
   box-shadow:
     inset 0 0 0 1px rgba(174, 234, 255, 0.22),
